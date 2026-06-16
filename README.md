@@ -10,7 +10,7 @@ The analysis follows a complete machine learning pipeline, including data prepro
 
 - [classificazione_binaria.ipynb](./classificazione_binaria.ipynb)
 
-- 
+  
 ## Objective
 
 The goal is to classify individuals into two categories:
