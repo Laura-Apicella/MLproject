@@ -8,7 +8,7 @@ The analysis follows a complete machine learning pipeline, including data prepro
 
 👉 Open the notebook below to view the full analysis:
 
-- [classificazione_binaria.ipynb](./classificazione_binaria.ipynb)
+- [classificazione_binaria.ipynb](./classificazione_binaria (2).ipynb)
 
   
 ## Objective
